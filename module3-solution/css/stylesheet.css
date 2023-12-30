@@ -1,0 +1,66 @@
+#bodybackground {
+	background-color: #f0ede8;
+}
+
+.navbar-custom {
+	background-color: #164555;
+}
+
+#companyName {
+	color: #c9c6bf;
+	font-size: 28px;
+	font-weight: bold;
+}
+
+#body-container {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.nav-link {
+	color: #c9c6bf;
+	margin-left: 36px;
+	padding-left: 24px;
+	border-left: 1px solid #c9c6bf;
+}
+
+.nav-link:hover {
+	font-weight: bold;
+	border-left: 1px solid #ab894e;
+	color: #ab894e;
+}
+
+.mi-uni {
+	margin-left: 2.5%;
+	margin-top: 2.5%;
+	display: block;
+	float: left;
+	border: 1px solid black;
+	padding-left: 2.5%;
+	padding-right: 2.5%;
+}
+
+.content {
+	border-left: 3px solid darkgray;
+	font-style: italic;
+	font-size: 18px;
+	padding-left: 3px;
+}
+
+.credit {
+	float: right;
+	margin-bottom: 5px;
+	font-weight: bold;
+}
+
+#mi-one {
+	background-color: #dacaae;
+}
+
+#mi-two {
+	background-color: #85c9df;
+}
+
+#mi-three {
+	background-color: #927844;
+}
